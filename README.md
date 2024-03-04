@@ -27,3 +27,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 
+![Sample Run](https://github.com/Mostafa-Mohamed4932/recipe_application/assets/125306561/b8615ca2-6aa5-4001-8e1d-f05906cf847e)
